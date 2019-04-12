@@ -1,0 +1,10 @@
+C:\Users\nltvy\#billiard_management\billiard-management\BilliardManagement\BilliardManagement\bin\Debug\BilliardManagement.exe.config
+C:\Users\nltvy\#billiard_management\billiard-management\BilliardManagement\BilliardManagement\bin\Debug\BilliardManagement.exe
+C:\Users\nltvy\#billiard_management\billiard-management\BilliardManagement\BilliardManagement\bin\Debug\BilliardManagement.pdb
+C:\Users\nltvy\#billiard_management\billiard-management\BilliardManagement\BilliardManagement\obj\Debug\BilliardManagement.csprojAssemblyReference.cache
+C:\Users\nltvy\#billiard_management\billiard-management\BilliardManagement\BilliardManagement\obj\Debug\BilliardManagement.Form1.resources
+C:\Users\nltvy\#billiard_management\billiard-management\BilliardManagement\BilliardManagement\obj\Debug\BilliardManagement.Properties.Resources.resources
+C:\Users\nltvy\#billiard_management\billiard-management\BilliardManagement\BilliardManagement\obj\Debug\BilliardManagement.csproj.GenerateResource.cache
+C:\Users\nltvy\#billiard_management\billiard-management\BilliardManagement\BilliardManagement\obj\Debug\BilliardManagement.csproj.CoreCompileInputs.cache
+C:\Users\nltvy\#billiard_management\billiard-management\BilliardManagement\BilliardManagement\obj\Debug\BilliardManagement.exe
+C:\Users\nltvy\#billiard_management\billiard-management\BilliardManagement\BilliardManagement\obj\Debug\BilliardManagement.pdb
